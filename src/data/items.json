@@ -1,0 +1,154 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Shawshank Redemption",
+            "genre": "Drama",
+            "poster": "./public/images/shawshank_redemption.jpg"
+        },
+        {
+            "id": 2,
+            "title": "The Godfather",
+            "genre": "Crime",
+            "poster": "./public/images/godfather.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Pulp Fiction",
+            "genre": "Crime",
+            "poster": "./public/images/pulp_fiction.jpg"
+        },
+        {
+            "id": 4,
+            "title": "The Dark Knight",
+            "genre": "Action",
+            "poster": "./public/images/dark_knight.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Fight Club",
+            "genre": "Drama",
+            "poster": "./public/images/fight_club.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Inception",
+            "genre": "Action",
+            "poster": "./public/images/inception.jpg"
+        },
+        {
+            "id": 7,
+            "title": "The Matrix",
+            "genre": "Action",
+            "poster": "./public/images/matrix.jpg"
+        },
+        {
+            "id": 8,
+            "title": "The Avengers",
+            "genre": "Action",
+            "poster": "./public/images/avengers.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Interstellar",
+            "genre": "Sci-Fi",
+            "poster": "./public/images/interstellar.jpg"
+        },
+        {
+            "id": 10,
+            "title": "The Lion King",
+            "genre": "Animation",
+            "poster": "./public/images/lion_king.jpg"
+        },
+        {
+            "id": 11,
+            "title": "The Social Network",
+            "genre": "Drama",
+            "poster": "./public/images/social_network.jpg"
+        },
+        {
+            "id": 12,
+            "title": "The Departed",
+            "genre": "Crime",
+            "poster": "./public/images/departed.jpg"
+        },
+        {
+            "id": 13,
+            "title": "The Prestige",
+            "genre": "Drama",
+            "poster": "./public/images/prestige.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Gladiator",
+            "genre": "Action",
+            "poster": "./public/images/gladiator.jpg"
+        },
+        {
+            "id": 15,
+            "title": "The Silence of the Lambs",
+            "genre": "Thriller",
+            "poster": "./public/images/silence_of_the_lambs.jpg"
+        },
+        {
+            "id": 16,
+            "title": "The Green Mile",
+            "genre": "Drama",
+            "poster": "./public/images/green_mile.jpg"
+        },
+        {
+            "id": 17,
+            "title": "The Dark Knight Rises",
+            "genre": "Action",
+            "poster": "./public/images/dark_knight_rises.jpg"
+        },
+        {
+            "id": 18,
+            "title": "The Wolf of Wall Street",
+            "genre": "Biography",
+            "poster": "./public/images/wolf_of_wall_street.jpg"
+        },
+        {
+            "id": 19,
+            "title": "The Incredibles",
+            "genre": "Animation",
+            "poster": "./public/images/incredibles.jpg"
+        },
+        {
+            "id": 20,
+            "title": "The Pursuit of Happyness",
+            "genre": "Biography",
+            "poster": "./public/images/pursuit_of_happyness.jpg"
+        },
+        {
+            "id": 21,
+            "title": "The Grand Budapest Hotel",
+            "genre": "Comedy",
+            "poster": "./public/images/grand_budapest_hotel.jpg"
+        },
+        {
+            "id": 22,
+            "title": "The Revenant",
+            "genre": "Adventure",
+            "poster": "./public/images/revenant.jpg"
+        },
+        {
+            "id": 23,
+            "title": "The Social Dilemma",
+            "genre": "Documentary",
+            "poster": "./public/images/social_dilemma.jpg"
+        },
+        {
+            "id": 24,
+            "title": "The Fault in Our Stars",
+            "genre": "Romance",
+            "poster": "./public/images/fault_in_our_stars.jpg"
+        },
+        {
+            "id": 25,
+            "title": "The Conjuring",
+            "genre": "Horror",
+            "poster": "./public/images/conjuring.jpg"
+        }
+    ]
+}
